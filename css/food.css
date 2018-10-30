@@ -1,0 +1,153 @@
+body{
+	background-color: #FBFBFD
+}
+#top{
+	background-color: #15173D
+}
+.topper{
+	text-align: center;
+}
+.head{
+	background: url("../images/back.jpg");
+	/*background: url("../images/back.jpg") no-repeat, red;*/
+	/*background-color:  ;*/
+	background-size: cover;
+	height: 500px;
+	clip-path: polygon(0 0, 100% 0, 100% 75%, 50% 100%, 0 75%);
+}
+.head-color{
+	background-color: rgba(225, 225, 225, 0.3);
+	height: 100%;
+}
+.middle{
+
+	text-align: center;
+	color: white;
+
+}
+.middle h1{
+	font-size: 100px;
+	font-weight: bolder;
+
+}
+#one{
+	padding: 15px;
+	margin-right: 5px;
+}
+#two{
+	padding: 15px;
+	background-color: orange;
+	margin-left: 5px;
+}
+.banner{
+	padding-top:40px;
+	padding-bottom: 50px;
+	background-color: #FBFBFD
+
+}
+.banner h1{
+	text-align: center;
+	padding-bottom: 70px;
+	line-height: 20px;
+	font-weight: bolder;
+}
+.banner h3{
+	font-weight: bolder;
+}
+.basket{
+	background-color: white;
+	text-align: center;
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+
+.location{
+	text-align: center;
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+.truck{
+	text-align: center;
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+figcaption{
+	background-color: white;
+	padding-top: 0px;
+}
+.banner1{
+	background-color: #F7F8FC
+}
+.banner1 h1{
+	text-align: center;
+	padding-top: 30px;
+	padding-bottom: 40px;
+	line-height: 20px;
+	font-weight: bolder;
+}
+
+.banner2{
+	line-height: 30px;
+	text-align: center;
+	background-color: #FFFFFF;
+	background: url("../images/rib.jpg");
+	/*background: url("../images/back.jpg") no-repeat, red;*/
+	/*background-color:  ;*/
+	background-size: cover;
+	height: 400px;
+	color: grey;
+	font-weight: bolder;
+}
+.banner2 h1{
+	text-align: center;
+	padding-top: 30px;
+	padding-bottom: 40px;
+	line-height: 20px;
+	font-weight: bolder;
+}
+.content{
+	word-spacing: 50px;
+	/*line-height: 50px;*/
+}
+.grill{
+	background-color: #FFFFFF;
+	padding-top: 20px;
+}
+.grill h4{
+	color: red;
+	text-align: center;
+}
+.grill p{
+	color: green;
+	text-align: center;
+}
+.roll{
+	padding: 70px;
+}
+.prof{
+	background: url("../images/cook.jpg");
+	/*background: url("../images/back.jpg") no-repeat, red;*/
+	/*background-color:  ;*/
+	background-size: cover;
+	height: 300px;
+	color: white;
+	font-weight: bolder;
+}
+.prof h1{
+	text-align: center;
+	padding-top: 30px;
+	padding-bottom: 40px;
+	line-height: 20px;
+	font-weight: bolder;
+}
+.profile{
+	text-align: center;
+}
+.foot{
+	background-color: #1F2531;
+	color:white;
+	text-align: center;
+}
+.foot ul{
+	list-style: none;
+}
